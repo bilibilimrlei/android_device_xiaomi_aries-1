@@ -21,6 +21,6 @@ export DEVICE=aries
 export DEVICE_COMMON=msm8960-common
 export VENDOR=xiaomi
 
-export DEVICE_BRINGUP_YEAR=2019
+export DEVICE_BRINGUP_YEAR=2021
 
 ./../$DEVICE_COMMON/setup-makefiles.sh $@
